@@ -20,7 +20,7 @@ Freelance backend engineer with a physics degree and 3+ years building productio
 ## Currently
 
 - Available for freelance work — [edoardobertoli.xyz](https://edoardobertoli.xyz)
-- Building [Pedro](https://github.com/Mediacom99/pedro-backend) — grocery price comparison for the Italian market
+- Building [Pedro](https://pedroshoppinglist.app/?i=1) — grocery price comparison for the Italian market
 - Building [ralph-orchestrator](https://github.com/Mediacom99/ralph-orchestrator) — AI development pipeline in Go
 
 ## Get in Touch
