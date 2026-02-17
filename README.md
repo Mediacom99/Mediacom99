@@ -27,4 +27,3 @@ Freelance backend engineer with a physics degree and 3+ years building productio
 
 - Web: [edoardobertoli.xyz](https://edoardobertoli.xyz)
 - LinkedIn: [/in/edoardo-bertoli](https://linkedin.com/in/edoardo-bertoli)
-- Email: bertoliedoardo99@gmail.com
