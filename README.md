@@ -12,7 +12,7 @@ Freelance backend engineer with a physics degree and 3+ years building productio
 ## Recent Work
 
 - Multitenant platform for 6 Serie A football teams (Go, PostgreSQL)
-- NLP pipeline processing 10K+ legal documents/month (Python, spaCy)
+- NLP pipeline processing legal documents/month (Python, spaCy)
 - Medical anonymization service with 99%+ PII detection (Python, Hugging Face)
 - High-throughput scraping infrastructure (Rust, Go, gRPC)
 - Remote job aggregator with web dashboard — [goremote](https://github.com/Mediacom99/goremote)
