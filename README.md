@@ -54,6 +54,6 @@ Building production systems from wherever there's good WiFi 🌍
 
 <div align="center">
 
-*BSc Physics · C2 Cambridge English · Remote from Asia*
+*BSc Physics · C2 Cambridge English · Remote from wherever there's good wifi and a good vibe*
 
 </div>
