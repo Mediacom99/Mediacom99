@@ -20,11 +20,15 @@ Selected Work
 Currently
 
 • Available for freelance work — [www.edoardobertoli.xyz](https://edoardobertoli.xyz)
+
 • Building Pedro — grocery price comparison for the Italian market
+
 • Building ralph-orchestrator — AI development pipeline in Go
 
 Get in Touch
 
 • Web: [www.edoardobertoli.xyz](https://edoardobertoli.xyz)
+
 • LinkedIn: /in/edoardo-bertoli
+
 • Email: bertoliedoardo99@gmail.com
