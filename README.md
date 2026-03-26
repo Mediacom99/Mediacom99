@@ -1,29 +1,30 @@
-# Hey, I'm Edoardo
+Hey, I'm Edoardo
 
-Freelance backend engineer with a physics degree and 3+ years building production systems.
+Backend engineer and AI agent developer. Physics degree, 3+ years building production systems. Currently freelancing from wherever there's good WiFi.
 
-## What I Build
+What I Build
 
-- **Backend APIs & Microservices** — Go, Python, TypeScript, Rust
-- **Data Extraction Systems** — high-throughput scraping, anti-bot bypass, API reverse engineering
-- **NLP & ML Pipelines** — document processing, NER, LLM integration
-- **Cloud Infrastructure** — Docker, Kubernetes, CI/CD, AWS, Hetzner
+• Backend Systems — Go, Python, TypeScript. REST APIs, microservices, gRPC
+• AI Agent Pipelines — LLM integration, orchestration, structured outputs, tool calling, MCP
+• Data Extraction — high-throughput scraping, anti-bot bypass, API reverse engineering
+• Cloud Infrastructure — Kubernetes, Docker, Argo CD, Drone CI, AWS, Hetzner
 
-## Recent Work
+Selected Work
 
-- Multitenant platform for 6 Serie A football teams (Go, PostgreSQL)
-- NLP pipeline processing legal documents/month (Python, spaCy)
-- Medical anonymization service with 99%+ PII detection (Python, Hugging Face)
-- High-throughput scraping infrastructure (Rust, Go, gRPC)
-- Remote job aggregator with web dashboard — [goremote](https://github.com/Mediacom99/goremote)
+• AI personal assistant with persistent memory and multi-agent orchestration (Claude API, Go, Python)
+• Multitenant platform for 6 Serie A football teams (Go, PostgreSQL)
+• NLP pipeline processing 10,000+ legal documents/month (Python, spaCy, LLMs)
+• Medical anonymization service with 99%+ PII detection (Python, Hugging Face)
+• Automated lead-gen pipeline: Google Maps to AI-generated websites to Vercel deploy — webseed
 
-## Currently
+Currently
 
-- Available for freelance work — [www.edoardobertoli.xyz](https://edoardobertoli.xyz)
-- Building [Pedro](https://pedroshoppinglist.app) — grocery price comparison for the Italian market
-- Building [ralph-orchestrator](https://github.com/Mediacom99/ralph-orchestrator) — AI development pipeline in Go
+• Available for freelance work — [www.edoardobertoli.xyz](https://edoardobertoli.xyz)
+• Building Pedro — grocery price comparison for the Italian market
+• Building ralph-orchestrator — AI development pipeline in Go
 
-## Get in Touch
+Get in Touch
 
-- Web: [www.edoardobertoli.xyz](https://edoardobertoli.xyz)
-- LinkedIn: [/in/edoardo-bertoli](https://linkedin.com/in/edoardo-bertoli)
+• Web: [www.edoardobertoli.xyz](https://edoardobertoli.xyz)
+• LinkedIn: /in/edoardo-bertoli
+• Email: bertoliedoardo99@gmail.com
